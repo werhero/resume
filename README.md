@@ -10,7 +10,7 @@
 + 年龄：25
 + 学历：本科（江西理工大学软件工程）
 + 工作年限：2年
-+ Github：[Github](http://github.com/werhero)
++ Github：[http://github.com/werhero](http://github.com/werhero)
 + 期望职位：Java开发工程师
 + 期望薪资：月薪12k~15k
 + 期望城市：海南 海口
@@ -51,4 +51,4 @@
 
 ---
 
-&copy; 麦祥磊(werhero@sina.cn)
+&copy; 麦祥磊(werhero@sina.cn)[Github](http://github.com/werhero)
