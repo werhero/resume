@@ -1,30 +1,18 @@
 # 联系方式
-- 手机：18976896677
-- E-mail：werhero@sina.cn
-
 ---
++ 手机：18976896677
++ email：werhero@sina.cn
 # 个人信息
-
- - 姓名：麦祥磊
- 
- - 性别：男
- 
- - 年龄：25
- 
- - 学历：本科（江西理工大学软件工程）
- 
- - 工作年限：2年
- 
- - Github：http://github.com/werhero
-
- - 期望职位：Java开发工程师
- 
- - 期望薪资：月薪12k~15k
- 
- - 期望城市：海南 海口
-
 ---
-
++ 姓名：麦祥磊
++ 性别：男
++ 年龄：25
++ 学历：本科（江西理工大学软件工程）
++ 工作年限：2年
++ Github：http://github.com/werhero
++ 期望职位：Java开发工程师
++ 期望薪资：月薪12k~15k
++ 期望城市：海南 海口
 # 工作经历
 （工作经历按时间逆序）
 
@@ -56,9 +44,9 @@
 
 以下均为我熟练使用的技能
 
-- Web开发：JAVA/JSP
-- Web系列：Spring MVC/Shrio/Netty/Tiles/Spring WebSocket/POI等
-- 前端系列：Jquery/Echart/LigerUI/Html/css等
-- 数据库相关：MySQL/SQLite/MongoDB
-- 服务器相关：Linux/Shell
-- 开放平台：微信公众号开发
++ Web开发：JAVA/JSP
++ Web系列：Spring MVC/Shrio/Netty/Tiles/Spring WebSocket/POI等
++ 前端系列：Jquery/Echart/LigerUI/Html/css等
++ 数据库相关：MySQL/SQLite/MongoDB
++ 服务器相关：Linux/Shell
++ 开放平台：微信公众号开发
