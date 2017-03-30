@@ -1,7 +1,7 @@
 # 联系方式
 ![IDcard](IDcard.png)
 + 手机：18976896677
-+ 电子邮箱：<a href="mailto:werhero@sina.cn?subject=Hello there Mr Mai">werhero@sina.cn</a>
++ 邮箱：<a href="mailto:werhero@sina.cn?subject=Hello there Mr Mai">werhero@sina.cn</a>
 
 ---
 
