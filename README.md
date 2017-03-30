@@ -1,8 +1,7 @@
 # 联系方式
-
 - 手机：18976896677
+- E-mail：werhero@sina.cn
 
-- E-mail：[werhero@sina.cn](werhero@sina.cn)
 ---
 # 个人信息
 
