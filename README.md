@@ -52,4 +52,4 @@
 
 ---
 
-&copy;麦祥磊&nbsp;<a href="mailto:werhero@sina.cn?subject=Hello there Mr mai">Send mail to me</a>&nbsp;[View my Github](http://github.com/werhero)
+<a href="mailto:werhero@sina.cn?subject=Hello there Mr mai">Send mail to me</a>&nbsp;[View my Github](http://github.com/werhero)
