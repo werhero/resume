@@ -10,7 +10,7 @@
 + 年龄：25
 + 学历：本科（江西理工大学软件工程）
 + 工作年限：2年
-+ Github：http://github.com/werhero
++ Github：[Github](http://github.com/werhero)
 + 期望职位：Java开发工程师
 + 期望薪资：月薪12k~15k
 + 期望城市：海南 海口
